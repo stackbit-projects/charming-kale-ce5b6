@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: contact-form
-    colors: colors-g
+    colors: colors-f
     title: Contact us
     text: We look forward to hearing from you.
     form:
